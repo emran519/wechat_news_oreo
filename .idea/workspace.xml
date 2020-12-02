@@ -7,65 +7,17 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdaf48e7-bea8-44b6-ab86-03c450d35db2" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/newsApplication (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/arrowright.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/board-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/board.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/collect-icon-slt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/collect-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/home-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lazy.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/note-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/note.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/safari-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/safari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/search-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/star-actived.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/article/article.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/article/article.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/article/article.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/article/article.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/collection/collection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/collection/collection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/collection/collection.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/collection/collection.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/logs/logs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/logs/logs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/logs/logs.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/logs/logs.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/user/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/user/user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/user/user.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/user/user.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
+    <list default="true" id="fdaf48e7-bea8-44b6-ab86-03c450d35db2" name="默认的" comment="新闻管理系统-微信小程序-课程设计">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,8 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606913120638</updated>
-      <workItem from="1606913122752" duration="1807000" />
+      <workItem from="1606913122752" duration="2660000" />
     </task>
+    <task id="LOCAL-00001" summary="新闻管理系统-微信小程序-课程设计">
+      <created>1606917766760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606917766760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,17 +68,41 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新闻管理系统-微信小程序-课程设计" />
+    <option name="LAST_COMMIT_MESSAGE" value="新闻管理系统-微信小程序-课程设计" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="329" y="77" key="SettingsEditor" timestamp="1606917702430">
+    <state x="329" y="77" key="SettingsEditor" timestamp="1606918562661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="329" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606917702430" />
+    <state x="329" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606918562661" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606918366376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606918366376" />
+    <state x="723" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606918304421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606918304421" />
     <state x="585" y="186" width="749" height="668" key="find.popup" timestamp="1606915954783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
