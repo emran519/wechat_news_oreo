@@ -1,0 +1,102 @@
+.detail{
+	background: #fff;
+	min-height: 100%;
+	font-size: 14px;
+	font-family: "microsoft yahei";
+}
+.header{
+	background: #fff;
+	height: 2rem;
+	line-height: 2rem;
+	white-space: nowrap;
+	display: flex;
+	border-bottom: 1px solid #eee;
+}
+.header navigator{
+	display: inline-block;
+	white-space: nowrap;
+	vertical-align: middle;
+	padding-right: 5px;
+	position: absolute;
+}
+.header navigator image{
+	width: 20px;
+	height: 20px;
+	transform: rotate(180deg);
+	padding-bottom: 8px;
+	padding-right: 8px;
+	display: inline-block;
+	float: left;
+}
+.header-title{
+	text-align: center;
+	width: 100%;
+}
+
+.title{
+	font-size: 1.3rem;
+	line-height: 1.6rem;
+	padding: 20rpx 0 30rpx 0;
+  text-align: center;
+  font-weight: bold;
+}
+.addTime{
+  font-size: xx-small;
+  text-align: center;
+}
+.content{
+	padding: 10rpx;
+  white-space: pre-line;
+}
+/* 下面摘得底部收藏的样式 */
+.page__bt {
+	position: fixed;
+	bottom: 0;
+	height: 86rpx;
+	border-top: solid 1px #ebebeb;
+	background: #ffffff;
+	width: 100%;
+	padding: 20rpx 0;    
+	display:flex;
+}
+
+.bottom-items {
+	width: 40%;
+	padding: 8px;
+}
+.bottom-items image {
+	margin: 0 25rpx 0 16rpx;
+	width: 55rpx;
+	height: 55rpx;
+	display: block;
+}
+.sharSty{
+	margin: 0 0 0 66rpx;
+	font-size: 13px;
+}
+.shareBtnSty{
+	margin: 0 0 0 66rpx;
+	border: 0;
+}
+
+.btn1 {
+  width: 90%;
+  margin-top: -9rpx;
+  background-color: #05b0ff;
+  color: white;
+  border-radius: 45rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.btnImg {
+  /* margin-right: 8rpx; */
+  width: 50rpx;
+  height: 50rpx;
+}
+
+.btn1::after {
+  border-radius: 98rpx;
+  border: 0; 
+}

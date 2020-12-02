@@ -1,0 +1,29 @@
+<!-- 文章详细开始 -->
+<view class="detail">
+  <template is="header" data="{{item: item}}" />
+	<view class="content">
+		<view class="title">
+			{{item.title}}
+    </view>
+    <view class="addTime">发布时间：{{item.add_time}}</view>
+		<view class="content">
+			<rich-text nodes="{{item.text}}"></rich-text>
+		</view>
+	</view>
+</view>
+<view class="hr" style="height: 150px;"></view>
+<!-- 下面部分按钮组件开始 -->
+<view class="page__bt page-flex">
+    <view class="bottom-items" style="float: left;">
+			<button class='btn1' open-type='openSetting'  open-type="share">
+    <image  src='../../images/share.png'></image>
+    <view style="font-weight: bold;font-size: initial;">转发</view>
+      </button>
+		</view>
+		<view class="bottom-items"oat style="float:right;margin-left:40px;" >
+			<button class='btn1'  bindtap="{{buttonId}}"  data-value="{{item.id}}" style="background-color:{{pageBackgroundColor}}">
+      <image  src='../../images/sco.png'></image> 
+    <view style="font-weight: bold;font-size: initial;">{{pageBackgroundText}}</view>
+      </button>
+		</view>
+</view>

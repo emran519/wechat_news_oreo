@@ -1,0 +1,16 @@
+<!-- 用户收藏页面开始 -->
+<view wx:for="{{list}}" wx:key="index">
+  <view class="item">
+    <navigator url="../article/article?id={{item.id}}">
+  <image class="img" src="{{item.title_img}}" mode="scaleToFill"></image>
+</navigator>
+  <view class="number-wrapper">
+  <navigator url="../article/article?id={{item.id}}">
+    <view class="count-wrapper" style="text-indent:2em;letter-spacing: 2px;">
+   <text class="textClass">{{item.title}}</text>
+  </view>
+  <text class="count" style="margin-left:170px;">{{item.add_time}}</text>
+  </navigator>
+  </view>
+ </view>
+</view>

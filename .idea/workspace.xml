@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdaf48e7-bea8-44b6-ab86-03c450d35db2" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/newsApplication (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrowright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/board-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/board.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/collect-icon-slt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/collect-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lazy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/note-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/safari-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/search-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star-actived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/article/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/article/article.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/article/article.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/article/article.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/collection/collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/collection/collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/collection/collection.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/collection/collection.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/logs/logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/logs/logs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/logs/logs.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/logs/logs.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user/user.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user/user.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l6MWavccQDCHsGpisH9E4JSI0Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdaf48e7-bea8-44b6-ab86-03c450d35db2" name="默认的" comment="" />
+      <created>1606913120638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606913120638</updated>
+      <workItem from="1606913122752" duration="1807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="77" key="SettingsEditor" timestamp="1606917702430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606917702430" />
+    <state x="585" y="186" width="749" height="668" key="find.popup" timestamp="1606915954783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="186" width="749" height="668" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606915954783" />
+  </component>
+</project>

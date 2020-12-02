@@ -1,0 +1,44 @@
+<!-- 轮播图开始 -->
+<view>
+  <swiper 
+    indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" 
+    interval="{{interval}}" 
+    duration="{{duration}}" 
+    circular="true">
+    <block wx:for="{{imgUrls}}" wx:key="imgUrls">
+      <swiper-item>
+
+        <view wx:if="{{item.article_id}}">
+          <navigator url="../article/article?id={{item.article_id}}">
+            <image class="img1" src="{{item.image_src}}" mode="widthFix"/>
+          </navigator>
+        </view>
+      <view wx:else>
+        <image class="img1" src="{{item.image_src}}" mode="widthFix"/>
+      </view>
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+<!-- 天气预报开始 -->
+<view>
+  <image src="../../images/tz.png" style="width: 30px;height:30px;float: left;"></image>
+  <text style="font-size:15px;height:30px;display:block;float:left;margin-top:5px;color:#0060ef;font-weight: bold;">地区：{{icity}}　当前温度：{{tmp}}°　天气：{{txt}}　风向：{{dir}}</text>
+</view>
+<!-- 新闻列表开始 -->
+<view wx:for="{{list}}" wx:key="index">
+  <view class="item">
+    <navigator url="../article/article?id={{item.id}}">
+  <image class="img" src="{{item.title_img}}" mode="scaleToFill"></image>
+</navigator>
+  <view class="number-wrapper">
+  <navigator url="../article/article?id={{item.id}}">
+    <view class="count-wrapper" style="text-indent:2em;letter-spacing: 2px;">
+   <text class="textClass">{{item.title}}</text>
+  </view>
+  <text class="count" style="margin-left:170px;">{{item.add_time}}</text>
+  </navigator>
+  </view>
+ </view>
+</view>
